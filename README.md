@@ -46,7 +46,7 @@ export GEMINI_API_KEY="your_api_key_here"
 ```bash
 streamlit run app.py
 ```
-## 🚀 Live Demo  
+## 🚀 Visit our app  
 🔗 **Try it here:** [SBI Life Policy Recommender](https://team-hackslayers-riya2-0.streamlit.app/)  
 
 ---
