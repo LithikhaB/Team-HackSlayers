@@ -168,4 +168,3 @@ if user_input:
                     st.markdown(f"- {feature}")
             
             st.markdown(f"**📄 Additional Details:** {policy_details.get('additional_details', 'Refer to the official brochure for more details.')}")
-
