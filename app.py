@@ -88,7 +88,7 @@ st.markdown(
 with st.sidebar:
     st.image("https://th.bing.com/th/id/OIP.IvoUo0h_QMzaLbg5xd_uuwHaEK?w=322&h=180&c=7&r=0&o=5&pid=1.7", width=100)
 
-    st.markdown("## About")
+    st.markdown("## About:")
     st.markdown(
         "This is a prototype chatbot that provides personalized support to find the best SBI Life policy based on just a few questions."
     )
