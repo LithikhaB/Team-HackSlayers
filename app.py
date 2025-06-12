@@ -4,7 +4,7 @@ import streamlit as st
 import json
 
 # Configure Gemini API
-genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+genai.configure(api_key="AIzaSyABRssRHY3TvWV9WCxb8KonfLvmars1qB8")
 
 # Create the model
 generation_config = {
